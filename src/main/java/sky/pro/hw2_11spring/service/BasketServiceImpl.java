@@ -1,6 +1,5 @@
 package sky.pro.hw2_11spring.service;
 
-import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Service;
 import org.springframework.web.context.annotation.SessionScope;
 import sky.pro.hw2_11spring.database.Item;
